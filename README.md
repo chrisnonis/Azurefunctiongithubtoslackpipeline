@@ -9,6 +9,7 @@ In serverless we delegate this task to the cloud, we don't care about the server
 
 <h3><b>Graphical overview of build</b></h3>
 
+![slackapi](https://user-images.githubusercontent.com/3684381/149912163-b329a8a3-a9ec-4ad9-937c-40100425ad03.jpg)
 
 
 Some of the benefits of running a serverless application
