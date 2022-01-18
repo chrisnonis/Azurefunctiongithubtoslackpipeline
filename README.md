@@ -1,9 +1,15 @@
 # Azurefunctiongithubtoslackpipeline
-Github to Slack Pipline using Azure Functions
+<h2>Github to Slack Pipline using Azure Functions </h2>
 
 Azure functions is a serverless application platform it provide a simple way to run small programs or functions in the cloud. it could be referred to as (FaaS) function as a service platform.
 
-So what does the word serverless means, in typical hosting scenarios we will have a server Windows or Linux which will be hosting our applications. And we will be responsible for managing that server and its resources, making sure it always up-to-date and has all of its security fixes ... In as serverless we delegate this task to the cloud, we don't care about the servers and its configurations and how it works as the cloud provider in our case Azure will be responsible for it. All we need to do is upload our code and thats it
+Serverless means, in typical hosting scenarios we will have a server Windows or Linux which will be hosting our applications. And we will be responsible for managing that server and its resources, making sure it always up-to-date and has all of its security fixes 
+
+In serverless we delegate this task to the cloud, we don't care about the servers and its configurations and how it works as the cloud provider in our case Azure will be responsible for it. All we need to do is upload our code and thats it.
+
+<h3><b>Graphical overview of build</b></h3>
+
+
 
 Some of the benefits of running a serverless application
 
